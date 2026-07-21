@@ -83,9 +83,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/gomezdevelops/gomezdevelops/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-> ⚠️ **Setup note:** the snake image only renders once you've generated it for *your own* profile repo, using the updated `snake.yml` (custom purple/blue colors, no green). Create a repo named exactly `gomezdevelops` (matching your username), then add the [platane/snk](https://github.com/Platane/snk) GitHub Action to it. That action commits the SVG to an `output` branch, which is what the URL above points to.
-
 <br/>
 
 <div align="center">
